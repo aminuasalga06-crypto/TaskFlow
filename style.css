@@ -1,0 +1,94 @@
+/* ============================================================
+   TaskFlow — style.css
+   Base stylesheet skeleton
+   Each section is assigned to a specific team member.
+   Do NOT modify sections assigned to other members.
+   ============================================================ */
+
+
+/* ============================================================
+   MEMBER 5 — Basic Layout (flexbox/grid, spacing, fonts)
+   ============================================================ */
+/* Add your layout styles here */
+
+
+/* ============================================================
+   MEMBER 6 — Color Theme & Button Styles
+   ============================================================ */
+/* Add your color variables and button styles here */
+
+
+/* ============================================================
+   MEMBER 1 — Header Styles
+   ============================================================ */
+#site-header {
+  /* Add your header styles here */
+}
+
+
+/* ============================================================
+   MEMBER 2 — Task Input Form Styles
+   ============================================================ */
+#task-form-section {
+  /* Add your form/input styles here */
+}
+
+
+/* ============================================================
+   MEMBER 3 — Task List Container Styles
+   ============================================================ */
+#task-list-section {
+  /* Add your task list styles here */
+}
+
+#task-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+/* ============================================================
+   MEMBER 4 — Footer Styles
+   ============================================================ */
+#site-footer {
+  /* Add your footer styles here */
+}
+
+
+/* ============================================================
+   MEMBER 11 — Filter Button Styles
+   ============================================================ */
+#filter-section {
+  /* Add your filter button styles here */
+}
+
+
+/* ============================================================
+   MEMBER 12 — Task Counter Styles
+   ============================================================ */
+#task-counter {
+  /* Add your counter styles here */
+}
+
+
+/* ============================================================
+   MEMBER 13 — Clear Completed Button Styles
+   ============================================================ */
+#clear-section {
+  /* Add your clear button styles here */
+}
+
+
+/* ============================================================
+   MEMBER 16 — Animations & Transitions
+   ============================================================ */
+/* Add your animation keyframes and transition styles here */
+
+
+/* ============================================================
+   MEMBER 17 — Responsive Design (Mobile-Friendly)
+   ============================================================ */
+@media (max-width: 600px) {
+  /* Add your mobile styles here */
+}
