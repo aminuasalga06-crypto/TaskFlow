@@ -53,7 +53,7 @@ taskflow/
 | Member 14 | @username | Save tasks to localStorage |
 | Member 15 | @username | Load tasks from localStorage |
 | Member 16 | @username | Animations & transitions |
-| Member 17 | @username | Responsive/mobile design |
+| Abdulmajid Muhammad | CIS/STE/22/1110 | Responsive/mobile design |
 | Member 18 | @username | README documentation |
 | Member 19 | @username | CONTRIBUTING.md guide |
 
