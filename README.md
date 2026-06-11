@@ -39,12 +39,12 @@ taskflow/
 | Awwal Umar Garba | CIS/STE/22/1104 | Repo setup, base skeleton, render function |
 | Muhammad Nasir Abubakar | CIS/STe/22/1103| Header section (title & tagline) and also Provided Network for the team Work
 | Hussaini Muhammad Kabir | CIS/STE/22/1108 | Task input form |
-| Member 3 | @username | Task list container |
-| Member 4 | @username | Footer section |
+| Sadiq Idris Abbas | CIS/STE/22/1106 | Task list container |
+| Abdulkadir Abdulkadir | CIS/STE/22/1115 | Footer section |
 | Member 5 | @username | Basic CSS layout |
 | Member 6 | @username | Color theme & button styles |
 | Member 7 | @username | Add task functionality |
-| Member 8 | @username | Mark task as complete |
+| Amir Muhammed Hassan  | NAS/STE/21/1063 | Mark task as complete |
 | Member 9 | @username | Delete task functionality |
 | Member 10 | @username | Edit task functionality |
 | Member 11 | @username | Filter tasks (All/Active/Completed) |
