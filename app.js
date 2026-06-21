@@ -70,8 +70,10 @@ function editTask(taskId, newText) {
    - Sets currentFilter to 'all', 'active', or 'completed'
    - Calls renderTasks() to refresh the displayed list
    ============================================================ */
-function setFilter(filter) {
   // Write your code here
+function setFilter(filter) {
+ currentFilter = filter;
+ renderTasks();
 }
 
 
