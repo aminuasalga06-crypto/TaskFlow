@@ -116,8 +116,13 @@ function saveTasks() {
    - Called once when the page first opens
    ============================================================ */
 function loadTasks() {
-  // Write your code here
+  const stored = localStorage.getItem('taskflow-tasks');
+  if (stored) {
+    tasks = JSON.parse(stored);
+  }
+  renderTasks();
 }
+
 
 
 /* ============================================================
