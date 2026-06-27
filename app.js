@@ -53,15 +53,14 @@ function deleteTask(taskId) {
 }
 
 
-/* ============================================================
-   MEMBER 10 — Edit an Existing Task
-   Function: editTask(taskId, newText)
-   - Finds the task by id and updates its text
-   - Calls renderTasks() after editing
-   ============================================================ */
 function editTask(taskId, newText) {
-  // Write your code here
+  const task = tasks.find(t => t.id === taskId);
+  if (task && newText.trim() !== "") {
+    task.text = newText.trim();
+  }
+  renderTasks();
 }
+
 
 
 /* ============================================================
